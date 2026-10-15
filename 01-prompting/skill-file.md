@@ -36,16 +36,16 @@ Output a file that references the tickets and creates a draft doc for the PRD, w
 
 Problem Statement - 2–4 sentences summarizing the customer problem and why it matters.
 
-Customer Signals — Short bullets summarizing the relevant requests and common patterns across tickets.
+Customer Signals - Short bullets summarizing the relevant requests and common patterns across tickets.
 
-Desired Outcome — 1–3 sentences describing what users should be able to achieve.
+Desired Outcome - 1–3 sentences describing what users should be able to achieve.
 
-Product Requirements — Numbered requirements written as clear, implementation-agnostic statements. Each requirement should describe expected product behavior or a business rule.
+Product Requirements - Numbered requirements written as clear, implementation-agnostic statements. Each requirement should describe expected product behavior or a business rule.
 
-Variations / Customer-Specific Needs — Include only when different tickets contain materially different requirements.
+Variations / Customer-Specific Needs - Include only when different tickets contain materially different requirements.
 
-Assumptions — Explicitly list anything inferred rather than directly stated in the source tickets.
+Assumptions - Explicitly list anything inferred rather than directly stated in the source tickets.
 
-Open Questions — List missing information, ambiguities, conflicts, or decisions requiring Product Manager validation.
+Open Questions - List missing information, ambiguities, conflicts, or decisions requiring Product Manager validation.
 
-Out of Scope / Not Supported by Evidence — Optional section for ideas mentioned or inferred that should not yet be treated as requirements.
+Out of Scope / Not Supported by Evidence - Optional section for ideas mentioned or inferred that should not yet be treated as requirements.
